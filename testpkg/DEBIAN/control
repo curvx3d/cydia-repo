@@ -1,0 +1,8 @@
+Package: com.curvx3d.testpkg
+Name: Test Package
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Simple test package for Cydia repo
+Maintainer: you
+Author: you
+Section: Testing

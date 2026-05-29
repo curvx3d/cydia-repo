@@ -1,0 +1,502 @@
+Package: ai.akemi.appsyncunified
+Version: 110.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 700
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: packs/nodelete-ai.akemi.appsyncunified.deb
+Size: 58440
+MD5sum: 26f898f0b80f3bd842527aa9a9859bb1
+SHA1: f0392e1c1992789ac92c17dc7db3718fca6df899
+SHA256: fa97d20ecaab914c7d07fc17ff2f31c15d34b33a5eebc158cb2c83e8a7ec2abc
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
+Package: com.beyoip.install0us
+Version: 2.5.2.the.end
+Architecture: iphoneos-arm
+Maintainer: Ajeje <repo@beyouriphone.com>
+Filename: packs/install0us.app_2.5.2.the.end.deb
+Size: 686802
+MD5sum: 40d49ef6ee09e4abd796ac58530f783c
+SHA1: 4d2f6b1d2538ca5596fc7c3a05c341b289c36cde
+SHA256: 93cab002d15ee71f1063bfc71bd7f6f28730bbea51aacb4d52d92bf2e540239f
+Section: BeYoIP Apps
+Description: THE App to download/install your IPA!!
+Author: puy0
+Depiction: http://repo.beyouriphone.com/depiction.html
+Name: install0us
+Sponsor: Install0us <http://install0us.com>
+
+Package: com.hackulo.us.installous
+Version: 4.0.0.10
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.appsync31 | us.hackulo.appsync32 | us.hackulo.appsync40 | us.hackulo.appsync41 | us.hackulo.appsync42, com.hackulo.us.sourcegui
+Filename: packs/installous-4.0.0.10.deb
+Size: 2515886
+MD5sum: fc2da034e9c9d4413739fb103d899483
+SHA1: ed6d38087fcc148b1aa9f78d6bc89b5501c15f33
+SHA256: bf0f5a6bb7b4fbc519db6b51fab03e1b2c2aa98bd50b933955018cec415bf37c
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: packs/installous-4.1.deb
+Size: 2327832
+MD5sum: c786535300999fce4d7ee5132933502a
+SHA1: 2d5032a1f4548f1c8b430d3015bce1ec9f3386a2
+SHA256: d3403c24efd7b4947d1c5a1a1b6f5e5624fae5d3a85d33d440cfa56efa8b8600
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: packs/installous-4.2-1.deb
+Size: 2613230
+MD5sum: b10eb95bbacf8dfe8dcdebfb4be67354
+SHA1: ce1f843ce36fa239e0f95c8e080a3c80681887ba
+SHA256: dba1bdaef498a34730393512ec3708b79c8e53d6055be8944d44f00b2d3a1c33
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: packs/installous-4.2.deb
+Size: 2613228
+MD5sum: 0ac123bd18b0c28ba443ea96462610bc
+SHA1: a43bc6d92693a0607e91dad3483430cfe29b86a7
+SHA256: c0a44c8c3e7acd51a65af9d5fe670c2c0475d5e0cd870628778e9813d8fd467c
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.3
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: packs/installous-4.3.deb
+Size: 3674780
+MD5sum: 906b002dc5638b75e825819d47500a04
+SHA1: 4b14714fd2a71f963f7dc1a18fa590203178970e
+SHA256: 9c6e82ccd43b095ba7855560d13e208d2dc83c1710c40bc298d33375904d108e
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.3-1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: packs/installous-4.3-1.deb
+Size: 3646804
+MD5sum: 71447e0fc98cceaf780c3fcfb1f9dc1d
+SHA1: 588fe69091124d31dfb954ae42ec98e4340015db
+SHA256: 96c2a885961d533284132da1b0a35c97810ab55857db2d9ea348f41d86526a35
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 4.4.1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 3.1)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui
+Filename: packs/installous-4.4.1.deb
+Size: 3754126
+MD5sum: ec6dffebd628a202809d6ac57575bdc7
+SHA1: b72a01977e1a2c5e16acef776ebb6e911badb6a4
+SHA256: f823ac9b6bcd632e25a48ce196ef8fa65fa735141b1f4e2e21fa428ccc00b650
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous4/
+Name: Installous 4
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0-10
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: packs/installous-5.0-10.deb
+Size: 5317786
+MD5sum: 5220a2028bd94f536913b29e8b2037be
+SHA1: 5aff12155ebe9f09e178197fdac3b7cb5438a973
+SHA256: 28fc3baa4af0f4d5d971bc13bbe537ae24bae0beb8d45b376566a22fd620ef3c
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0-9
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: packs/installous-5.0-9.deb
+Size: 5313450
+MD5sum: 8a2570eb62a5a77d72f30941cd55c01f
+SHA1: d5c3b702adb69661b26cda658c3db30a0aa719a2
+SHA256: 3f516a5d8c38cae1f73f98568500f39c1ce8f8260781c19fb6a7279e14c6ac43
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: packs/installous-5.0.1-1.deb
+Size: 5327346
+MD5sum: 17987749c9da3564e19477b5f006dd78
+SHA1: 06950bccc593f416f0a63c4a2402b1f8dd864f45
+SHA256: e8d110dfef5d589c957d1464bfea742344d4900d33bfe3f5d8ae686a74cf7c4d
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: packs/installous-5.0.2-1.deb
+Size: 5328192
+MD5sum: f0b182b3fbb340d4e58f1304d890abce
+SHA1: 2c2aed45863b37283bd9bede08163662d44a853e
+SHA256: fcf07e1d1ac882341c85cadc9d59bf9d99ba8a16b5937887e69027fed4e1dadf
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0.2-2
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: packs/installous-5.0.2-2.deb
+Size: 5328190
+MD5sum: 0c6646c9a0231ba28b79f3b41c187245
+SHA1: 48e77e7a080503d474a87550a9cecc06d91476b6
+SHA256: e02e171f5b683c6e9ce392136a25967d043f54c690fc99349adb0272c1bfba4a
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.installous
+Version: 5.0.3-1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Pre-Depends: firmware (>= 4.0)
+Depends: us.hackulo.resources, appsync, com.hackulo.us.sourcegui, com.chpwn.weeloader (>= 1.1) | firmware (<< 5.0)
+Filename: packs/installous-5.0.3-1.deb
+Size: 5326030
+MD5sum: 42e48c376dcedbefd0c5bc6876310e45
+SHA1: 14cc8f1ffb1e625bb57020f764f4e518b6d709f5
+SHA256: 4baf768abe97799850d5e5ffb53e9cd052ea5d413d7441f0cd57b4b1ae4dcf32
+Section: Hackulo.us
+Priority: standard
+Description: Installous is the perfect app to install your IPAs
+Author: docmorelli <apps@hackulo.us>
+Depiction: http://hackulo.us/depict/installous5/
+Name: Installous 5
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.sourcegui
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <admin@hackulo.us
+Filename: packs/com.hackulo.us.sourcegui_1.2_iphoneos-arm.deb
+Size: 8518
+MD5sum: c60b66d9fc23710ddb5a149a535951fd
+SHA1: 66c7a0233dcdae976c169b483e790a7e92bb1de3
+SHA256: ab54749833ed2e9c16754a3fdf692e94004b3495ab7a08d11c2085e6e21130fb
+Section: Hackulo.us
+Priority: standard
+Description: Hackulo.us Source GUI adds the source icons
+Author: Genius Blog <admin@hackulo.us>
+Depiction: http://hackulo.us/depict/sourcegui
+Name: Source GUI
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.hackulo.us.sourcegui
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <admin@hackulo.us
+Filename: packs/sourcegui-1.2.deb
+Size: 8518
+MD5sum: c60b66d9fc23710ddb5a149a535951fd
+SHA1: 66c7a0233dcdae976c169b483e790a7e92bb1de3
+SHA256: ab54749833ed2e9c16754a3fdf692e94004b3495ab7a08d11c2085e6e21130fb
+Section: Hackulo.us
+Priority: standard
+Description: Hackulo.us Source GUI adds the source icons
+Author: Genius Blog <admin@hackulo.us>
+Depiction: http://hackulo.us/depict/sourcegui
+Name: Source GUI
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: com.ixmoe.1pwn.Veteris
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Electimon <electimon@gmail.com>
+Depends: firmware (>= 5.0), appsync, moe.yzu.veterishelper
+Filename: packs/Veteris-v2.1.1.deb
+Size: 1950126
+MD5sum: d1b104bee17dd9505546ef6e91df438d
+SHA1: b6b519d0825dafc94754f0b642a683149e54e271
+SHA256: a40e926e9e702684df51ce35d12c9531954f9d0048eeca8c21939f5316408160
+Section: Utilities
+Homepage: http://1pwn.ixmoe.com/
+Description: A Client for the Veteris Server.
+Author: Electimon <electimon@gmail.com>
+Icon: file:///Applications/Veteris.app/AppIcon57x57@2x.png
+Name: Veteris
+
+Package: com.ixmoe.1pwn.ebayx
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: electimon
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: packs/com.ixmoe.1pwn.ebayx_1.0.0-1+debug_iphoneos-arm.deb
+Size: 2842
+MD5sum: d388cd0254c5c81b24455b6a52eb877b
+SHA1: 390e0271e53fa1ce361df14e443712bdd470d998
+SHA256: ff9fd4df95969e75e8b58b8dcc15fa11e64af0a759c891bc8439a566ad11f031
+Section: Tweaks
+Description: eBay killswitch disabler, Kot!
+Author: electimon
+Name: eBayX
+
+Package: com.ixmoe.1pwn.facetimefixer
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Electimon <electimon@gmail.com>
+Depends: firmware (>= 5.0), appsync
+Filename: packs/facetimefixer-v1.0.1.deb
+Size: 2058
+MD5sum: f585084e27b25c7062aa176ac68621ef
+SHA1: f5870724c3f16fe903c38d959810e7d52a490f4e
+SHA256: 0dd7e37e1a41e2d7092290622d424e08a4e73610b6e1434be26e6bbb45a2d22c
+Section: Utilities
+Homepage: http://1pwn.ixmoe.com/
+Description: Just kidding.
+Author: Electimon <electimon@gmail.com>
+Name: FaceTimeX
+
+Package: com.skyglow.stocksx
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Requis
+Depends: mobilesubstrate, firmware (>= 2.0), firmware (<= 7.2), com.skyglow.weatherx
+Conflicts: com.ixmoe.1pwn.stockx
+Filename: packs/StocksX.deb
+Size: 18640
+MD5sum: 2cc527709d172622ce444d6c2822dcdd
+SHA1: bcfdf0325e230b7fd4c109e93976cd5eca03e341
+SHA256: b6e084265211c1a4f1d685c397c5ae4f975eff1b6d6589592d929806fdfffdfe
+Section: Tweaks
+Description: Fix the stocks app from iPhoneOS 2 to iOS 7 by redirecting requests to my servers!
+Author: Requis
+Depiction: http://cydia.skyglow.es/depictions/com.skyglow.stocksx/depictions/index.html
+Name: StocksX
+
+Package: com.skyglow.weatherx
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: Requis
+Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader, com.skyglow.stocksx
+Conflicts: com.ixmoe.1pwn.weatherx
+Filename: packs/WeatherX.deb
+Size: 84100
+MD5sum: a6261fcbcbe36290f4aaa25357744d9e
+SHA1: a6e6caabf056d05b8f961165123917e9eff9c846
+SHA256: c7648684aff258bfa831b2e7c317361dad7c300d24505367c622d8b84ef6d67b
+Section: Tweaks
+Description: Fix iOS's weather app from iPhoneOS 2 to iOS 7, the weather widget in the notification center, and the temperature in the iPad clock app!
+Author: Requis
+Depiction: http://cydia.skyglow.es/depictions/com.skyglow.weatherx/depictions/index.html
+Name: WeatherX
+
+Package: installous.translations
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Depends: com.hackulo.us.installous
+Filename: packs/translations-1.1.deb
+Size: 17324900
+MD5sum: c82eea469105f4e7ca4c39b80ccb01cf
+SHA1: 97dbc7017420c7cf3f90f36e7a865e09dd6c069a
+SHA256: 7e6baff283179260a4e02d758efa41a181a54e33b808101ca606628367baf594
+Section: Development
+Priority: standard
+Description: Installous foreign translations
+Author: Dissident <apps@hackulo.us>
+Name: Installous Translations
+
+Package: moe.yzu.veterishelper
+Version: 1.0.0-53+debug
+Architecture: iphoneos-arm
+Maintainer: Stella Diaz (electimon)
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: packs/moe.yzu.veterishelper_1.0.0-53+debug_iphoneos-arm.deb
+Size: 7224
+MD5sum: f92062d4ddd14532c7d39a6aba32a751
+SHA1: 98ecb6684ebcf21993dd180851e20030dea68726
+SHA256: 9af54f52b9f46db8187cafc76851fa546ff72c03e1365e44ce07ff9b84bc4551
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Stella Diaz (electimon
+Name: Veteris Helper
+
+Package: org.mtmdev.YewTube
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Electimon <electimon@gmail.com>
+Depends: firmware (>= 5.0), appsync
+Filename: packs/YewTube-v1.0.1.deb
+Size: 180100
+MD5sum: 91d09c8e3134fdbfb3a9c948243e78e2
+SHA1: 042c068488d86338863dfb41ad992eb201203755
+SHA256: 7e96fdd3d2ef88642ae779fbe923bca394eb3d9f6ed0546e266b589647dfc58e
+Section: Internet
+Homepage: http://mtmdev.org
+Description: A YouTube client made in Objective-C utilizing the power of Invidious.
+Author: Electimon <electimon@gmail.com>
+Icon: http://2pwn.tk/dev/icons/YewTube.png
+Name: YewTube
+
+Package: us.hackulo.resources
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Dissident <apps@hackulo.us>
+Filename: packs/hresources-1.4.deb
+Size: 1162
+MD5sum: c7b03d949aff15822dea1239bc271394
+SHA1: bbcdb7943b181212719837be09d2534352907565
+SHA256: d05733e58b914fa1a56db8cb6d42762933fa359d0ad000f3c7844d5dccd5a498
+Section: Hackulo.us
+Priority: standard
+Description: Hackulous resource files for Installous.
+Author: docmorelli <apps@hackulo.us>
+Name: Hackulous Resources
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.security
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <admin@hackulo.us>
+Depends: com.hackulo.us.sourcegui, coreutils, openssl, curl, sed
+Filename: packs/security.deb
+Size: 2784
+MD5sum: df221ff7bb2f4baf1503b9693b1ca298
+SHA1: 1f588f64db3c9e2599350f7a25856ed03eee22a0
+SHA256: df6a4bd2e8a06608de72d6b0a4ce7a620def7b0104c361123f878b1031528d90
+Section: Hackulo.us
+Priority: standard
+Description: Protects you and your device from malicious websites
+Author: Kyek <hackulous_security@hackulo.us>
+Depiction: http://hackulo.us/depict/security
+Name: Hackulous Security
+Sponsor: Hackulo.us <http://hackulo.us>
+
+Package: us.hackulo.security
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Genius Blog <admin@hackulo.us>
+Depends: com.hackulo.us.sourcegui, coreutils, openssl, curl, sed
+Filename: packs/us.hackulo.security_1.2.1_iphoneos-arm.deb
+Size: 2784
+MD5sum: df221ff7bb2f4baf1503b9693b1ca298
+SHA1: 1f588f64db3c9e2599350f7a25856ed03eee22a0
+SHA256: df6a4bd2e8a06608de72d6b0a4ce7a620def7b0104c361123f878b1031528d90
+Section: Hackulo.us
+Priority: standard
+Description: Protects you and your device from malicious websites
+Author: Kyek <hackulous_security@hackulo.us>
+Depiction: http://hackulo.us/depict/security
+Name: Hackulous Security
+Sponsor: Hackulo.us <http://hackulo.us>
+
